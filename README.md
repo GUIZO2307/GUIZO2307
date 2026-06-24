@@ -22,8 +22,6 @@ Atualmente, estou em transição de carreira / focando meus estudos em Front-end
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
-> *Nota: Estou constantemente atualizando esta lista conforme aprendo novas ferramentas.*
-
 ---
 
 ### 📫 Como me encontrar:
@@ -31,5 +29,3 @@ Atualmente, estou em transição de carreira / focando meus estudos em Front-end
 - **LinkedIn:** https://www.linkedin.com/in/guilherme-alves-dos-santos-176748207/
 - **E-mail:** Guialves704@gmail.com
 ---
-
-*"O sucesso é a soma de pequenos esforços repetidos dia após dia."*
